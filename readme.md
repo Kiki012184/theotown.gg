@@ -17,17 +17,24 @@ ___
 - [Theotown Black Market](https://discord.gg/E7ZdwMNug7)
 - [The leaf](https://discord.gg/FdNAZnwWd3)
 - [Theotown Archiving Community](https://discord.gg/FnGGuwWatC)
+- [Complex industry](https://discord.gg/9cxRBhkWmG)
 
 **EXPIRES IN 7 DAY PER  7TH JULY 2023**
 
 - [Age of sail](https://discord.gg/SB3ZQwka)
 - [Pixel and chill](https://discord.gg/w59Ay8br)
 - [Kamikazi](https://discord.gg/uwfB5kyP)
-- [Complex industry](https://discord.gg/ZFebyfjE)
 
 **EXPIRED**
 
 - [Vönark](https://discord.gg/TJSjfuKDUv)
+- [Red-C](https://discord.gg/DnDK5K7y)
+- [Valeski](https://example.com)
+
+**MISSING/CLOSED**
+
+- OLD Official Roleplay Server
+- THEMAX Trainpack Server
 
 
-*Link searched by Yakka,contact me (yakka.id) in discord or join my discord server if your server wanna be removed or added from list*
+*Link searched by Yakka,contact me (yakka.id) in discord if your server wanna be removed from list*
