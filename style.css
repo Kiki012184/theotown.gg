@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin');
+:root {
+  --TTCL-01: #CEE5ED; /*Border*/
+  --TTCL-02: #3D5F6B; /*Background*/
+  --TTCL-03: #60828E; /*Overlay*/
+}
+img,
+svg {
+  max-width: 100%;
+  overflow-x: scroll;
+}
+.body-ttyk {
+  background-color: var(--bs-dark);
+  color: var(--bs-light);
+  font-family: "Cabin",Sans-Serif;
+}
+.icon-bento {
+  background-color: var(--TTCL-02);
+  border: 1px solid var(--TTCL-01);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 10rem;
+  border-radius: 0.5rem;
+}
+.icon-bento img {
+  height: 8rem !important;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+.desc-bento {
+  background-color: var(--TTCL-02);
+  border: 1px solid var(--TTCL-01);
+  padding: 0.5rem;
+  min-height: 10rem;
+  border-radius: 0.5rem;
+}
+.content-bento {
+  background-color: var(--TTCL-02);
+  border: 1px solid var(--TTCL-01);
+  color: var(--bs-light) !important;
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+}
+.content-bento h6 {
+  font-weight: bold;
+  padding-bottom: 0.25rem;
+  border-bottom: 1px solid var(--TTCL-01);
+  font-size: 1.25em;
+}
+.content-bento .btn {
+  background-color: var(--TTCL-03);
+  color: var(--TTCL-01);
+  border: 1px solid var(--TTCL-01);
+  border-radius: 0.5rem;
+}
+.content-bento .btn:hover {
+  background-color: transparent;
+}
+.footer-bento {
+  background-color: var(--TTCL-02);
+  border: 1px solid var(--TTCL-01);
+  border-bottom: none;
+  color: var(--bs-light) !important;
+  padding: 0.5rem;
+  border-top-left-radius: 0.5rem;
+  border-top-right-radius: 0.5rem;
+}
